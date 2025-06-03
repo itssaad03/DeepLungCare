@@ -1,0 +1,35 @@
+
+ **DeepLungCare**  
+*Specialized Pulmonary & Respiratory Care*   
+
+
+### **Patient Information**  
+**Patient ID:** {{ patient_serial_number }}  
+**Name:** {{ full_name }}  
+**Gender:** {{ gender }}  
+**Contact:** {{ phone_number }} | {{ email }}  
+**Blood Group:** {{ blood_group }}  
+**OPD Number:** {{ opd_number }}  
+**Risk Factors:** Smoking: {{ smoking_status }} | Prior Lung Disease: {{ previous_lung_disease }}  
+
+---
+
+### **Clinical Findings**  
+{{ clinical_findings }}
+
+---
+
+### **Immediate Actions**  
+{{ immediate_actions }}
+
+---
+
+### **Long-Term Management Plan**  
+{{ long_term_plan }}
+
+---
+
+### **Disclaimer**  
+*This report is generated for preliminary assessment only. Consult a licensed pulmonologist for definitive care.*  
+
+**Report Generated On:** {{ current_date }}

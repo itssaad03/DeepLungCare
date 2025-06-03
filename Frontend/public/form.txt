@@ -1,0 +1,47 @@
+======================================
+               DeeplungCare
+======================================
+
+                MEDICAL REPORT
+=======================================
+
+Patient Serial Number: [serialNumber]  
+Name: [patientName]  
+Gender: [gender]  
+Email: [email]  
+Contact Number: [contact]  
+Blood Group: [bloodGroup]  
+OPD Number: [opd]  
+Smoking Status: [smoker]  
+Previous Lung Disease: [previousLungDisease]  
+Prediction Model Accuracy: [accuracy] %
+
+------------------------------------------
+Diagnosis and Medical Summary
+------------------------------------------
+
+Following a thorough evaluation of the patient's clinical presentation and imaging results, the presence of **[disease]** has been detected. [Disease] is a respiratory condition that typically develops due to [insert cause — e.g., prolonged exposure to air pollutants, smoking, chronic infection, or genetic predisposition]. The disease affects the lungs by [brief mechanism — e.g., damaging alveoli, causing inflammation of the airways, or reducing oxygen exchange capacity], leading to respiratory symptoms such as chronic cough, breathlessness, fatigue, or chest discomfort.
+
+In the patient's history, it was noted that [he/she/they] has [mention smoking history, relevant prior lung conditions, or occupational/environmental exposure if any]. This background may have contributed to the onset or exacerbation of the current pulmonary condition.
+
+------------------------------------------
+First Aid and Immediate Recommendations
+------------------------------------------
+
+In the event of symptom escalation — such as difficulty breathing, chest pain, or severe coughing — it is advised that the patient immediately seeks a calm and ventilated environment and avoids physical exertion. The patient should be seated upright to ease the breathing process and, if prescribed, utilize any inhalers or bronchodilators on hand. Avoiding exposure to allergens, smoke, and other respiratory irritants is crucial. If symptoms do not subside promptly, emergency medical assistance should be sought without delay.
+
+------------------------------------------
+Ongoing Care and Treatment Recommendations
+------------------------------------------
+
+The patient is advised to schedule a consultation with a licensed pulmonologist for a comprehensive management plan. Long-term care may involve regular use of medications such as corticosteroids, bronchodilators, or antibiotics, depending on the disease subtype. Lifestyle modifications including cessation of smoking, a balanced diet rich in antioxidants, and moderate physical activity under supervision are strongly encouraged. Periodic follow-ups and lung function assessments will help monitor progression and guide therapeutic adjustments.
+
+In cases where lung capacity has been significantly compromised, the patient may benefit from pulmonary rehabilitation programs to improve breathing efficiency and quality of life. Vaccination against influenza and pneumonia is also recommended to prevent secondary infections.
+
+------------------------------------------
+
+*This report has been generated based on preliminary findings and is intended to assist in the patient's medical management. For definitive diagnosis and treatment, please consult a certified healthcare professional.*
+
+We appreciate your trust in **DeeplungCare**, where your lung health is our priority.
+
+==========================================
